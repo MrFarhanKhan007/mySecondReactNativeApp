@@ -48,7 +48,7 @@ const styles = StyleSheet.create(
             borderRadius: 4,
             margin:8,
         },
-
+ 
         cardElevated: {
             backgroundColor: "#CAD5E2",
             elevation:5,
